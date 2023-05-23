@@ -1,4 +1,4 @@
-# Breast-Cancer-Classfier
+# The Pink Project
 Deep Learning Project build a simple Neural Network (NN) with TensorFlow and Keras in Python.
 
 #Requirements
